@@ -21,5 +21,5 @@ public interface RegitDao {
     List<Regit>check();
     
     Regit getRegByName(String name);
-    int delete(int id);
+    
 }
